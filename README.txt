@@ -1,5 +1,6 @@
 Muhammad Rifki Aufa
 1908107010037
+Arsitektur Perangkat Lunak Kelas A
 
 Studi kasus: Anime( Dari huruf A(ufa) )
 Ini aplikasi cli di mana user dapat memilih opsi anime yang ingin ditonton. 
